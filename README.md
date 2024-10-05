@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Konji</h1>
 <h3 align="center">I am passionate about Afrofeminist technology!</h3>
-
+<img align ="right" alt="coding" width ="400" src ="https://giphy.com/embed/rOdtJJS9Xf4TYx2aT8">
 
 
 - 📫 How to reach me **konjiviola@gmail.com**
