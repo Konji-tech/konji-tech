@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Konji</h1>
-<h3 align="center">I am passionate about Afrofeminist technology!</h3>
+<h3 align="center">Tech For Social Good</h3>
 <img align ="right" alt="coding" width ="400" src ="https://media.giphy.com/media/rOdtJJS9Xf4TYx2aT8/giphy.gif?cid=ecf05e4782agyw9hagxthp87sgxqx7imdn6qvu7kv3nd3vlw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
